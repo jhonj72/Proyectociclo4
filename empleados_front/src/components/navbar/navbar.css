@@ -1,0 +1,16 @@
+#navbar #dropdown-Header .row:nth-child(1){
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar #dropdown-Header .row:nth-child(2){
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.logo{
+width: 120px;
+height: 80px;
+}
